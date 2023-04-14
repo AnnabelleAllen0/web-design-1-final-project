@@ -3,13 +3,16 @@ nav img, footer svg {
     height: auto;
   }
 
-
 body {
     font-family: 'Open Sans', sans-serif;
 }
 
 h1, h2 {
     font-weight: bold;
+}
+
+img {
+    margin-bottom: 40px;
 }
 
 .wrapper {
