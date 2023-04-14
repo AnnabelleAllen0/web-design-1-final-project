@@ -1,0 +1,61 @@
+nav img, footer svg {
+    max-width: 100px;
+    height: auto;
+  }
+
+
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+h1, h2 {
+    font-weight: bold;
+}
+
+.wrapper {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+body {
+    background-color: #0E1215;
+    color: white;
+    font-size: 16px;
+}
+
+nav {
+    background-color: #FAFAFA;
+}
+
+a {
+    color: white;
+}
+
+h1 {
+    font-size: 2.5rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+p {
+    font-size: 2rem;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+nav img {
+    max-width: 100%;
+}
+
+nav h1 {
+    margin: 0;
+}
+
